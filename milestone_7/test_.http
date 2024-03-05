@@ -1,0 +1,6 @@
+GET  http://localhost:5000/birthdays?month=october&department=QA
+Content-Type: application/json
+
+###
+GET  http://localhost:5000/anniversaries?month=march&department=HR
+Content-Type: application/json

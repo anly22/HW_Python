@@ -62,4 +62,21 @@ _Topics:_
 *	_Modules and packages. Projects_
 
 
+Milestone 7 “Ancient, Inc. 2”
+-----------------------------------
+Here there are several files. 
+In [server.py]() a simple **flask** server is implemented. 
+It has that will have 2 defined endpoints. 
+The response is a JSON-encoded report. 
+The server was tested locally on port 5000. 
+Database for this case is [database.csv] ()
+[utils.py]() is a module with some functions that were used to complete response with data from database due to requests.
+[fetch_report.py] conteins a cli-utility to query the API using **requests** library. 
+
+_Topics:_
+*	_API. Clients_
+*	_Servers_
+
+
+
 
