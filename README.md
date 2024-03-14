@@ -78,5 +78,14 @@ _Topics:_
 *	_Servers_
 
 
+[Milestone 8 “Bookshelf”](milestone_8)
+-----------------------------------
+Assignment includes [UML diagram](milestone_8/book.yaml) of the library, coding up classes from the diagram and creating functions to organize books into the shelves by category and to iterate over all the shelves and sort the books by title in ascending order ([book_organizing.py](milestone_8/book_organizing.py)). [Program.py](milestone_8/program.py) demonstrates how my program works.
+
+_Topics:_
+*   _Classes_
+*   _Inheritance and Composition_
+
+
 
 
