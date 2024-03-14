@@ -1,0 +1,28 @@
+-----------------------------------
+|             Book               |
+-----------------------------------
+| + title: String                |
+| + id: String                   |
+| + author: String               |
+| + category: String                |
+| pile: List (not set, the same books can be!)|
+| categories: Set                |
+----------------------------------
+| + def devide_by_categories()   |
+|                                |
+-----------------------------------
+                 |
+                 |
+                 |
+                 |
+                 V
+-----------------------------------
+|              Shelf             |
+-----------------------------------
+| + id: String                   |
+| + content: List                |
+| all_shelves: List              |
+-----------------------------------
+| + devide_to_shelves()          |
+| + sorted_by_title()            |
+-----------------------------------
